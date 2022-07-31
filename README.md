@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @G33RY
-- 👀 I’m a full stack web developer in Java, Laravel PHP, React.Js and Vue.js. 
+- 👀 I’m a full stack web developer in Java, Laravel PHP, React.js and Vue.js. 
 - 🌱 I’m currently learning javascript backend frameworks(Next.js, Express) and experimenting in Unity 3D
 - 📫 You can reach me by email: <imregergo01@gmail.com>
 
