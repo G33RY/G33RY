@@ -4,11 +4,11 @@ Hi 👋 My name is Gery Imre
 Web Developer
 -------------
 
-I have 4 years of experience in Laravel PHP and React JS. Also, I have been working at a company in Hungary since 2021 developing websites and android apps in Java. I have a little experience in C# too from school.
+I have 4 years of experience in Laravel PHP and React JS. Currently I am working at a company in Hungary since 2021 developing websites and android apps in Java. Also, I have a little experience in C# from school.
 
 *   🌍  I'm based in Hungary
 *   ✉️  You can contact me at [imregergo01@gmail.com](mailto:imregergo01@gmail.com)
-*   🧠  I'm learning Flutter, NextJs
+*   🧠  I'm learning Flutter, NextJs and Web3
 ### Skills
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
