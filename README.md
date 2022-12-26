@@ -1,4 +1,4 @@
-Hi 👋 My name is Gery Imre
+Hi 👋 My name is Gergő Imre
 ===========================
 
 Web Developer
