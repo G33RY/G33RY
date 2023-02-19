@@ -4,7 +4,7 @@ Hi 👋 My name is Gergő Imre
 Web Developer
 -------------
 
-I have 4 years of experience in Laravel PHP and React JS. Currently I am working at a company in Hungary since 2021 developing websites and android apps in Java. Also, I have a little experience in C# from school.
+I have 4 years of experience in Laravel PHP and React JS. Currently I am working at a company in Hungary since 2021 developing crm systems and android apps in Java & Vuejs. Also, I have a little experience in C# from school.
 
 *   🌍  I'm based in Hungary
 *   ✉️  You can contact me at [imregergo01@gmail.com](mailto:imregergo01@gmail.com)
