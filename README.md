@@ -8,7 +8,7 @@ I have 4 years of experience in Laravel PHP and React JS. Currently I am working
 
 *   🌍  I'm based in Hungary
 *   ✉️  You can contact me at [imregergo01@gmail.com](mailto:imregergo01@gmail.com)
-*   🧠  I'm learning Flutter, NextJs and Web3
+*   🧠  I'm learning Flutter, NextJs and Rust.
 ### Skills
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
