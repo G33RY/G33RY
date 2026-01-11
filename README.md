@@ -54,5 +54,4 @@ I’ve worked on backend-heavy, real-world systems used in production, often tak
 
 ### Links
 
-- GitHub: https://github.com/g33ry
 - LinkedIn: https://www.linkedin.com/in/gergo-imre
